@@ -1,12 +1,16 @@
 # E-Commerce Data Analysis Dashboard
 
-Interactive Power BI dashboard analyzing e-commerce business performance across customers, sellers, orders, payments, products, reviews, delivery, shipping, and geographical regions. Includes interactive slicers, KPI cards, charts, and maps to explore key business insights.
+Interactive Power BI dashboard analyzing e-commerce business performance across customers, sellers, orders, payments, products, reviews, delivery, shipping, and geographical regions. The dashboard includes interactive slicers, KPI cards, charts, and maps to explore key business insights.
+
+---
 
 ## 📊 Project Overview
 
 This project is an interactive **Power BI dashboard** created to analyze and understand e-commerce business performance.
 
 The dashboard provides insights into **customers, sellers, orders, payments, products, reviews, delivery, shipping, and geographical performance**. Interactive slicers and visualizations allow users to explore different aspects of the e-commerce data.
+
+---
 
 ## 📌 Dashboard Pages
 
@@ -21,7 +25,7 @@ Provides an overall view of the e-commerce business, including:
 - Product Category Performance
 - Review Score Analysis
 
-![E-Commerce Overall Analysis](Dashboard/Overall_Analysis.png)
+![E-Commerce Overall Analysis](E-commerce-overall-Analysis.png)
 
 ---
 
@@ -29,13 +33,13 @@ Provides an overall view of the e-commerce business, including:
 
 Analyzes customer activity and purchasing behaviour, including:
 
-- Customer orders
-- Order value
-- Review behaviour
-- Spending patterns
-- Product preferences
+- Customer Orders
+- Order Value
+- Review Behaviour
+- Spending Patterns
+- Product Preferences
 
-![Customer Behaviour](Dashboard/Customer_Behaviour.png)
+![Customer Behaviour](Customer_Behaviour_Analysis.png)
 
 ---
 
@@ -43,13 +47,13 @@ Analyzes customer activity and purchasing behaviour, including:
 
 Analyzes customer payment patterns, including:
 
-- Payment methods
-- Total payment value
-- Average payment value
-- Payment installments
-- Orders by payment method
+- Payment Methods
+- Total Payment Value
+- Average Payment Value
+- Payment Installments
+- Orders by Payment Method
 
-![Payment Behaviour](Dashboard/Payment_Behaviour.png)
+![Payment Behaviour](Payment_Behaviour_analysis.png)
 
 ---
 
@@ -57,14 +61,14 @@ Analyzes customer payment patterns, including:
 
 Analyzes delivery and shipping performance, including:
 
-- Average delivery delay
-- Average shipping charge
-- Average response time
-- Average delivery distance
-- Shipping cost by distance
-- Delivery performance by city and category
+- Average Delivery Delay
+- Average Shipping Charge
+- Average Response Time
+- Average Delivery Distance
+- Shipping Cost by Distance
+- Delivery Performance by City and Category
 
-![Delivery & Shipping Analysis](Dashboard/Delivery_Shipping.png)
+![Delivery & Shipping Analysis](Delivery_%26_Shipping_analysis.png)
 
 ---
 
@@ -72,13 +76,13 @@ Analyzes delivery and shipping performance, including:
 
 Analyzes the geographical distribution of customers, sellers, and orders, including:
 
-- Customer locations
-- Seller distribution
-- Orders by city
-- Cost by city
-- Cost by state
+- Customer Locations
+- Seller Distribution
+- Orders by City
+- Cost by City
+- Cost by State
 
-![Geographical Analysis](Dashboard/Geographical_Analysis.png)
+![Geographical Analysis](Geographical_analysis.png)
 
 ---
 
@@ -86,14 +90,14 @@ Analyzes the geographical distribution of customers, sellers, and orders, includ
 
 Analyzes seller-level performance, including:
 
-- Total sellers
-- Seller orders
-- Products by seller and category
-- Orders by seller and category
-- Seller cost performance
-- Average order value
+- Total Sellers
+- Seller Orders
+- Products by Seller and Category
+- Orders by Seller and Category
+- Seller Cost Performance
+- Average Order Value
 
-![Seller Performance Analysis](Dashboard/Seller_Performance.png)
+![Seller Performance Analysis](Seller_performance_analysis.png)
 
 ---
 
@@ -104,6 +108,8 @@ Analyzes seller-level performance, including:
 - **Interactive Slicers** – Filtering and exploring dashboard data
 - **KPI Cards** – Tracking key business metrics
 - **Charts & Maps** – Visual analysis of business performance
+
+---
 
 ## 📈 Key Insights
 
@@ -118,6 +124,16 @@ The dashboard helps analyze:
 - Geographical distribution
 - Overall e-commerce business performance
 
+---
+
+## 🎯 Project Objective
+
+The objective of this project is to transform e-commerce data into meaningful business insights using **Power BI dashboards and data visualization techniques**.
+
+The dashboard provides an interactive way to explore business performance across different dimensions such as customers, sellers, products, payments, delivery, reviews, and geography.
+
+---
+
 ## 📂 Project Structure
 
 ```text
@@ -125,10 +141,9 @@ E-Commerce-Data-Analysis/
 │
 ├── README.md
 │
-└── Dashboard/
-    ├── Overall_Analysis.png
-    ├── Customer_Behaviour.png
-    ├── Payment_Behaviour.png
-    ├── Delivery_Shipping.png
-    ├── Geographical_Analysis.png
-    └── Seller_Performance.png
+├── Customer_Behaviour_Analysis.png
+├── Delivery_&_Shipping_analysis.png
+├── E-commerce-overall-Analysis.png
+├── Geographical_analysis.png
+├── Payment_Behaviour_analysis.png
+└── Seller_performance_analysis.png
