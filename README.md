@@ -83,22 +83,18 @@ The dashboard helps analyze:
 - Geographical distribution
 - Overall e-commerce business performance
 
+
 ## 📂 Project Structure
-
-
-### It will appear on GitHub like this:
 
 ```text
 E-Commerce-Data-Analysis/
 │
 ├── README.md
 │
-├── Dashboard/
-│   ├── Overall_Analysis.png
-│   ├── Customer_Behaviour.png
-│   ├── Payment_Behaviour.png
-│   ├── Delivery_Shipping.png
-│   ├── Geographical_Analysis.png
-│   └── Seller_Performance.png
-│
-└── E-Commerce_Analysis.pbix
+└── Dashboard/
+    ├── Overall_Analysis.png
+    ├── Customer_Behaviour.png
+    ├── Payment_Behaviour.png
+    ├── Delivery_Shipping.png
+    ├── Geographical_Analysis.png
+    └── Seller_Performance.png
