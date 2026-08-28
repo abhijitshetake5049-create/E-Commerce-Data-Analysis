@@ -1,7 +1,6 @@
-# E-Commerce-Data-Analysis
-Interactive Power BI dashboard analyzing e-commerce business performance across customers, sellers, orders, payments, products, reviews, delivery, shipping, and geographical regions. Includes interactive slicers, KPI cards, charts, and maps to explore key business insights.
-
 # E-Commerce Data Analysis Dashboard
+
+Interactive Power BI dashboard analyzing e-commerce business performance across customers, sellers, orders, payments, products, reviews, delivery, shipping, and geographical regions. Includes interactive slicers, KPI cards, charts, and maps to explore key business insights.
 
 ## 📊 Project Overview
 
@@ -12,7 +11,9 @@ The dashboard provides insights into **customers, sellers, orders, payments, pro
 ## 📌 Dashboard Pages
 
 ### 1. E-Commerce Overall Analysis
+
 Provides an overall view of the e-commerce business, including:
+
 - Total Customers
 - Total Sellers
 - Total Orders
@@ -20,24 +21,42 @@ Provides an overall view of the e-commerce business, including:
 - Product Category Performance
 - Review Score Analysis
 
+![E-Commerce Overall Analysis](Dashboard/Overall_Analysis.png)
+
+---
+
 ### 2. Customer Behaviour
+
 Analyzes customer activity and purchasing behaviour, including:
+
 - Customer orders
 - Order value
 - Review behaviour
 - Spending patterns
 - Product preferences
 
+![Customer Behaviour](Dashboard/Customer_Behaviour.png)
+
+---
+
 ### 3. Payment Behaviour
+
 Analyzes customer payment patterns, including:
+
 - Payment methods
 - Total payment value
 - Average payment value
 - Payment installments
 - Orders by payment method
 
+![Payment Behaviour](Dashboard/Payment_Behaviour.png)
+
+---
+
 ### 4. Delivery & Shipping Analysis
+
 Analyzes delivery and shipping performance, including:
+
 - Average delivery delay
 - Average shipping charge
 - Average response time
@@ -45,22 +64,38 @@ Analyzes delivery and shipping performance, including:
 - Shipping cost by distance
 - Delivery performance by city and category
 
+![Delivery & Shipping Analysis](Dashboard/Delivery_Shipping.png)
+
+---
+
 ### 5. Geographical Analysis
+
 Analyzes the geographical distribution of customers, sellers, and orders, including:
+
 - Customer locations
 - Seller distribution
 - Orders by city
 - Cost by city
 - Cost by state
 
+![Geographical Analysis](Dashboard/Geographical_Analysis.png)
+
+---
+
 ### 6. Seller Performance Analysis
+
 Analyzes seller-level performance, including:
+
 - Total sellers
 - Seller orders
 - Products by seller and category
 - Orders by seller and category
 - Seller cost performance
 - Average order value
+
+![Seller Performance Analysis](Dashboard/Seller_Performance.png)
+
+---
 
 ## 🛠️ Tools & Technologies
 
@@ -82,7 +117,6 @@ The dashboard helps analyze:
 - Delivery and shipping performance
 - Geographical distribution
 - Overall e-commerce business performance
-
 
 ## 📂 Project Structure
 
