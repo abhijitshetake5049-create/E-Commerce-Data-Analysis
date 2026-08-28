@@ -86,6 +86,9 @@ The dashboard helps analyze:
 ## 📂 Project Structure
 
 
+### It will appear on GitHub like this:
+
+```text
 E-Commerce-Data-Analysis/
 │
 ├── README.md
